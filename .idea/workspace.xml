@@ -2,95 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d05fdb2-752c-4df2-89d2-ed300770b8d2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Videos/Ethereum_01_EN-1.mp4" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Videos/Ethereum_02_EN-2.mp4" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/swiper.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/videojs.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/animatiom_spite.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/apple-touch-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/custom-radio.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/exit-page-bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/favicon-16x16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/favicon-32x32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/form1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/form1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/form2.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/form3.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/header-logos.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/icon-b-sm.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/icon-b.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/icon_skype.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/intro-bg (1).jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/intro-bg (2).jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/intro-bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/intro-stat-1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/intro-stat-2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/intro-stat-3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/intro-stat-4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/intro-stat-5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/intro-stat-6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/jv-form-bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/jv-reason1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/jv-reason2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/jv-reason3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/jv-reason4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/logo-big.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/logo-exit.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/logo-inline.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/man-bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/member-step-1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/member-step-2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/member-step-3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/notebook-bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/pb-pagination-arrows.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/realstats1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/realstats2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/realstats3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/realstats4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/reason1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/reason2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/reason3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/reason4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/start-today-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/tab-title-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/testimonial-1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/testimonial-2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/testimonial-3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/testimonial-4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/testimonial-5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/testimonial-6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/up-button.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/vacations-bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/verified.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/why-1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/why-2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/why-3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/scripts.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/swiper.jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/members/config.v3.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/members/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/members/css/flag-icon.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/members/css/font-awesome.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/members/css/font-awesome.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/members/css/form-css-custom.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/members/css/form-css.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/members/css/reset.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/members/css/select2.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/members/css/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/members/css/swiper.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/members/css/videojs.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/members/form-css(1).css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/members/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/members/js/jquery.dataTables.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/members/js/scripts.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/members/video.html" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -102,8 +14,45 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="nginx.conf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../pscli/app/client/build/resources/nginx.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="12" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="563">
+              <caret line="893" column="42" lean-forward="true" selection-start-line="893" selection-start-column="42" selection-end-line="893" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>members</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../pscli/app/client/build/resources/nginx.conf" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -177,17 +126,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518035013692</updated>
-      <workItem from="1518035014825" duration="2000" />
+      <workItem from="1518035014825" duration="790000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2000" />
+    <option name="totallyTimeSpent" value="790000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980299" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980299" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -212,8 +162,29 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../pscli/app/client/build/resources/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="12" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="893" column="42" lean-forward="true" selection-start-line="893" selection-start-column="42" selection-end-line="893" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
